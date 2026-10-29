@@ -1,0 +1,6 @@
+{
+  "name": "YEP - Youth Empowerment Project",
+  "description": "Youth Digital Empowerment and Virtual Exchange Platform for young people in Uganda and East Africa, supporting digital learning, mentorship, team collaboration, and impact projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
